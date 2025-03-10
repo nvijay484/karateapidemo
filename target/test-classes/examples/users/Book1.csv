@@ -1,0 +1,5 @@
+name,email,phone,role
+test1,test1@gmail.com,8765546690,QA
+test2,test1@gmail.com,8765546691,SDET
+test3,test1@gmail.com,8765546692,Analyst
+test4,test1@gmail.com,8765546693,SRQA
